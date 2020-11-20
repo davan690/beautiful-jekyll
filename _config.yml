@@ -6,19 +6,21 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: The Statistics Network
 
 # Your name to show in the footer
-author: Some Person
+author: Anthony Davidson
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  	- Download RStudio: "https://rstudio.com/products/rstudio/"
+  	- Learning R: "https://rstudio.com/products/rstudio/"
+    - Build you own website: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://davan690.github.io"
 
 # --- Logo --- #
 
@@ -228,4 +230,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
